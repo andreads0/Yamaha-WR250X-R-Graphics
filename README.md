@@ -2,7 +2,7 @@
 
 SVG graphics for Yamaha WR250X and WR250R. Get them here: [graphics.svg](graphics.svg).
 
-
+![Picture](picture1.jpg)
 
 ## License
 
