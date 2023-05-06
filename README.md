@@ -19,8 +19,8 @@ Thank you for your support!
 1) Apply a mixture of soap and water on the adhesive part of the graphics
 1) Place accurately the graphics
 1) Use a plastic card to squeeze out the water solution starting from the center
-1) Let dry and use a heater to speed up the process
 1) Use a needle to remove bubbles
+1) Let dry
 1) Enjoy!
 
 ## Photos
