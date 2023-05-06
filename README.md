@@ -23,7 +23,12 @@ Thank you for your support!
 1) Use a needle to remove bubbles
 1) Enjoy!
 
-![Picture](picture1.jpg)
+## Photos
+
+<img src="picture1.jpg" width="600">
+<img src="picture2.jpg" width="600">
+
+
 
 
 ## License
